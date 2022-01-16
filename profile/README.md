@@ -1,6 +1,5 @@
 # OpenDocs
 ### A WYSIWYG editor like Google Docs that supports Dyslexia, and as a bonus, custom fonts.
-#### Note: These repositories are on a self-hosted GitLab instance. For the source code, head [here](https://git.nosadnile.net/opendocs/).
 
 ---------
 Table of Contents
@@ -24,7 +23,7 @@ It will allow you to upload your own fonts, and your own pictures and assets to 
     4. Have fun!
 - Option 2 (Self-hosted):
     1. Clone this repository.
-        - Run `git clone https://git.nosadnile.net/opendocs/opendocs.git`
+        - Run `git clone https://github.com/opendocs-editor/opendocs.git`
     2. Open a terminal.
     3. Install NPM/Node.js and Yarn
         - Debian/Ubuntu/Kali Linux
