@@ -23,7 +23,7 @@ It will allow you to upload your own fonts, and your own pictures and assets to 
     4. Have fun!
 - Option 2 (Self-hosted):
     1. Clone this repository.
-        - Run `git clone https://github.com/opendocs-editor/editor.git`
+        - Run `git clone https://github.com/opendocs-editor/server.git`
     2. Open a terminal.
     3. Install NPM/Node.js and Yarn
         - Debian/Ubuntu/Kali Linux
