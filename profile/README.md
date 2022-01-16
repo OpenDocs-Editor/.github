@@ -80,7 +80,6 @@ It will allow you to upload your own fonts, and your own pictures and assets to 
             2. Run the installer. It should be the file `mongodb-windows-x86_64-5.0.5-signed.msi`.
     5. Move into the working directory.
         - Run `cd ~/opendocs`
-        - **(LEGACY)** Run `cd ~/opendocs-legacy`
     6. Install the dependencies.
         - Run `yarn install`
     7. Start the server.
