@@ -1,13 +1,6 @@
 # OpenDocs
 ### A WYSIWYG editor like Google Docs that supports Dyslexia, and as a bonus, custom fonts.
 
----------
-Table of Contents
-1. [About](#about)
-2. [Installation](#installation)
-3. [Roadmap](#roadmap)
----------
-
 ## About
 OpenDocs is a 100% open-source editor like Word and Google Docs that aims to support people with Dyslexia.\
 It does this through the availibility of custom fonts and typefaces to make readibility easier.\
